@@ -10,6 +10,7 @@ body {
 .grid {
   display: grid;
   grid-template-columns: 1fr 2fr 2fr;
+  grid-gap: 64px;
 }
 
 section {
@@ -97,7 +98,6 @@ footer p {
   letter-spacing: 0px;
   text-align: left;
   opacity: 0.7;
-  margin-right: 20px;
 }
 
 footer ul {
