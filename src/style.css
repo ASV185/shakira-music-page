@@ -9,13 +9,25 @@ body {
 
 .grid {
   display: grid;
-  grid-template-columns: 1fr 2fr 2fr;
   grid-gap: 64px;
+}
+
+.grid-2-columns {
+  grid-template-columns: 1fr 1fr;
+}
+
+.grid-3-columns-with-first-narrow {
+  grid-template-columns: 1fr 2fr 2fr;
+}
+
+.img-responsive {
+  max-width: 100%;
 }
 
 section {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 100px 0;
 }
 
 header {
@@ -72,13 +84,65 @@ header a {
   display: inline-block;
 }
 
+main {
+  background-color: white;
+}
+
+main h2 {
+  font-family: Playfair Display;
+  font-size: 48px;
+  color: rgba(39, 32, 68, 1);
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0;
+}
+
+main h3 {
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 700;
+  color: rgba(70, 44, 178, 1);
+  line-height: 1.5;
+  letter-spacing: 5px;
+  text-align: left;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+main p {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(39, 32, 68, 1);
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+main a {
+  background-color: rgba(136, 93, 241, 1);
+  color: white;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 16px 32px;
+  border-radius: 100px;
+  text-decoration: none;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: center;
+  gap: 10px;
+}
+
 footer {
   color: white;
   background-image: linear-gradient(rgba(2, 4, 3, 0.7), rgba(2, 4, 3, 0.7)),
     url("../images/shakira-footer.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 100px 0;
 }
 
 footer h3 {
@@ -130,5 +194,14 @@ footer a {
 
   header h3 {
     font-size: 12px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    grid-gap: 32px;
+  }
+
+  section {
+    padding: 30px;
   }
 }
