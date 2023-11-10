@@ -7,6 +7,14 @@ body {
   margin: 0 auto;
 }
 
+.text-center {
+  text-align: center;
+}
+
+.bold-text {
+  font-weight: 700;
+}
+
 .grid {
   display: grid;
   grid-gap: 64px;
@@ -20,8 +28,70 @@ body {
   grid-template-columns: 1fr 2fr 2fr;
 }
 
+.grid-3-columns {
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 30px;
+  margin-left: 150px;
+  margin-right: 171px;
+  margin-top: 64px;
+}
+
+.card {
+  background-color: white;
+  margin: 30px 0;
+  border-radius: 5px;
+}
+
+.card-header {
+  border-radius: 5px;
+}
+
+.card-body {
+  padding: 28px;
+}
+
 .img-responsive {
   max-width: 100%;
+}
+
+.secondary {
+  max-width: 1512px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
+    url("../images/shakira-songs.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 180px 0;
+}
+
+.secondary h2 {
+  font-family: "Playfair Display";
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 10px;
+}
+
+.secondary h3 {
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 5px;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 10px;
+}
+
+.secondary h4 {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0em;
+  text-align: left;
 }
 
 section {
@@ -109,6 +179,29 @@ main h3 {
   text-align: left;
   text-transform: uppercase;
   margin: 0;
+}
+
+main h4 {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 700;
+  color: rgba(39, 32, 68, 1);
+  line-height: 1;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0;
+}
+
+main h5 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(39, 32, 68, 1);
+  line-height: 1;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0;
+  padding-top: 16px;
 }
 
 main p {
