@@ -50,6 +50,11 @@ body {
   padding: 28px;
 }
 
+.card-footer {
+  display: block;
+  padding: 24px 32px;
+}
+
 .img-responsive {
   max-width: 100%;
 }
