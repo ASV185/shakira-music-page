@@ -50,6 +50,11 @@ body {
   padding: 28px;
 }
 
+.card-footer {
+  padding: 24px, 32px;
+  margin: 8px;
+}
+
 .card-footer .btn {
   width: 97px;
   height: 19px;
