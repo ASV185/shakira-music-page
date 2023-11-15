@@ -1,12 +1,13 @@
 # shakira-music-page
 A website about Shakira and her famous latin music.
-![Screenshot 2023-11-14 191827](https://github.com/ASV185/shakira-music-page/assets/74805696/98deebfe-26d3-40c8-82cd-d3b9070aaba9)
-![Screenshot 2023-11-14 191751](https://github.com/ASV185/shakira-music-page/assets/74805696/3174d94d-5aee-402e-acd0-657a656e8347)
-![Screenshot 2023-11-14 191651](https://github.com/ASV185/shakira-music-page/assets/74805696/01a94072-0bf7-4ae6-953e-1a973f7d65c1)
-![Screenshot 2023-11-14 191528](https://github.com/ASV185/shakira-music-page/assets/74805696/14bb9beb-cb2d-482b-a9b3-477188a5cfb4)
-![Screenshot 2023-11-14 191420](https://github.com/ASV185/shakira-music-page/assets/74805696/284bec9f-8c4a-4b6d-b9d4-2c9e4544b84d)
-![Screenshot 2023-11-14 191955](https://github.com/ASV185/shakira-music-page/assets/74805696/4831dc2c-565c-408e-a044-70a03a48134c)
-![Screenshot 2023-11-14 191911](https://github.com/ASV185/shakira-music-page/assets/74805696/1915e37b-4fd2-4bd6-9ca3-ba7124b7fa3f)
+![Screenshot 2023-11-14 191420](https://github.com/ASV185/shakira-music-page/assets/74805696/7ba24861-ba85-47f2-b42d-79988053b0fa)
+![Screenshot 2023-11-14 191528](https://github.com/ASV185/shakira-music-page/assets/74805696/b3d9d099-e61a-4ab8-ae3f-193ce0b17a9e)
+![Screenshot 2023-11-14 191651](https://github.com/ASV185/shakira-music-page/assets/74805696/9a338a34-eff6-4090-beff-0c280a9b0a1f)
+![Screenshot 2023-11-14 191751](https://github.com/ASV185/shakira-music-page/assets/74805696/3aac5364-b64a-45e6-8928-332a49e6a0c0)
+![Screenshot 2023-11-14 191827](https://github.com/ASV185/shakira-music-page/assets/74805696/a7ab8d09-f682-450a-84c1-3bcf2e32b57b)
+![Screenshot 2023-11-14 191911](https://github.com/ASV185/shakira-music-page/assets/74805696/9f361b28-e829-44db-8294-5f20b195d400)
+![Screenshot 2023-11-14 191955](https://github.com/ASV185/shakira-music-page/assets/74805696/321ed508-e6e7-4380-ad39-924ad3a394ae)
+
 
 Website:
 https://shakira-music.netlify.app/
