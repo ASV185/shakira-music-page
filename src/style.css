@@ -1,3 +1,8 @@
+:root {
+  --primary-color: #c02850;
+  --secondary-color: white;
+  --accent-color: rgba(39, 32, 68, 1);
+}
 body {
   background-color: #f5f5f5;
 }
@@ -37,7 +42,7 @@ body {
 }
 
 .card {
-  background-color: white;
+  background-color: var(--secondary-color);
   margin: 30px 0;
   border-radius: 5px;
 }
@@ -121,7 +126,7 @@ header {
     url("../images/shakira-1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  color: white;
+  color: var(--secondary-color);
   text-align: center;
   padding: 180px 0;
 }
@@ -162,8 +167,8 @@ header a {
   letter-spacing: 3px;
   text-decoration: none;
   text-transform: uppercase;
-  background-color: #c02850;
-  color: white;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
   padding: 16px 32px;
   border-radius: 10px;
   margin-top: 32px;
@@ -171,13 +176,13 @@ header a {
 }
 
 main {
-  background-color: white;
+  background-color: var(--secondary-color);
 }
 
 main h2 {
   font-family: Playfair Display;
   font-size: 48px;
-  color: rgba(39, 32, 68, 1);
+  color: var(--accent-color);
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: 0em;
@@ -189,7 +194,7 @@ main h3 {
   font-family: Poppins;
   font-size: 13px;
   font-weight: 700;
-  color: #c02850;
+  color: var(--primary-color);
   line-height: 1.5;
   letter-spacing: 5px;
   text-align: left;
@@ -201,7 +206,7 @@ main h4 {
   font-family: Roboto;
   font-size: 24px;
   font-weight: 700;
-  color: #c02850;
+  color: var(--primary-color);
   line-height: 1;
   letter-spacing: 0em;
   text-align: left;
@@ -212,7 +217,7 @@ main h5 {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  color: #c02850;
+  color: var(--primary-color);
   line-height: 1;
   letter-spacing: 0em;
   text-align: left;
@@ -224,7 +229,7 @@ main p {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  color: rgba(39, 32, 68, 1);
+  color: var(--accent-color);
   line-height: 19px;
   letter-spacing: 0px;
   text-align: left;
@@ -232,8 +237,8 @@ main p {
 }
 
 main a {
-  background-color: #c02850;
-  color: white;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
   font-family: Roboto;
   font-size: 16px;
   font-weight: 600;
@@ -246,7 +251,7 @@ main a {
 }
 
 footer {
-  color: white;
+  color: var(--secondary-color);
   background-image: linear-gradient(rgba(2, 4, 3, 0.7), rgba(2, 4, 3, 0.7)),
     url("../images/shakira-footer.jpg");
   background-repeat: no-repeat;
@@ -283,7 +288,7 @@ footer li {
 }
 
 footer a {
-  color: white;
+  color: var(--secondary-color);
   opacity: 0.7;
 }
 
