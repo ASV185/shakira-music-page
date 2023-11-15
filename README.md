@@ -6,7 +6,8 @@ A website about Shakira and her famous latin music.
 ![Screenshot 2023-11-14 191751](https://github.com/ASV185/shakira-music-page/assets/74805696/3aac5364-b64a-45e6-8928-332a49e6a0c0)
 ![Screenshot 2023-11-14 191827](https://github.com/ASV185/shakira-music-page/assets/74805696/a7ab8d09-f682-450a-84c1-3bcf2e32b57b)
 ![Screenshot 2023-11-14 191911](https://github.com/ASV185/shakira-music-page/assets/74805696/9f361b28-e829-44db-8294-5f20b195d400)
-![Screenshot 2023-11-14 191955](https://github.com/ASV185/shakira-music-page/assets/74805696/321ed508-e6e7-4380-ad39-924ad3a394ae)
+![Screenshot 2023-11-14 191955](https://github.com/ASV185/shakira-music-page/assets/74805696/4d68d1f5-fead-4903-a523-46f2ef5b68fa)
+
 
 
 Website:
